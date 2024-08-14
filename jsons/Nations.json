@@ -1,38 +1,35 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"name": "Dlotho South Pole",
+		"leaderName": "Who Are The Death",
+		"adjective": ["who"],
 		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Breath",
+		"startIntroPart2": "Who are we? We dont remember, everything we know is wrath. Reclaim our honor!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Return our honor!",
+		"attacked": "So you have choosen death!",
+		"defeated": "We were just misunderstood and stuck in forever wrath, we will rise again from the ashes, you owe us your head!",
+		"introduction": "The First Generation of Old World hyper power has been risen from the ashes, prepare to dead!",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Breath.",
+		"neutralLetsHearIt": ["Breath."],
+		"neutralNo": ["Haha... head shake."],
+		"neutralYes": ["You chose wisely."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Breath",
+		"hateLetsHearIt": ["Breath."],
+		"hateNo": ["Staring."],
+		"hateYes": ["You decided wisely, kids."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "We will return.",
+		"tradeRequest": "At least we dont want your blood this time.",
 
-		"outerColor": [16,16,16],
+		"outerColor": [140,25,255],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"uniques": ["Cannot build [Settler] units","Starts with [Honor] adopted","[30] units cost no maintenance","Cannot build [Ranged] units","[6] Unit Supply per [1] population [in all cities]","Quantity of strategic resources produced by the empire +[+100]%","Cities are razed [20] times as fast","No movement cost to pillage","Can only heal by pillaging"],
+		"cities": ["South Pole"]
 	}
 ]
