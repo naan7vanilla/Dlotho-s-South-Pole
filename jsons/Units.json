@@ -1,17 +1,26 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"name": "Reclaim Legion",
+		"unitType": "Sword",
+		"uniqueTo": "Dlotho South Pole",
+		"replaces": "Warrior",
+		"movement": 3,
+		"strength": 8,
+		"cost": 4,
+		"requiredTech": "Agriculture",
+		"promotions": ["Blitz"],
+		"attackSound": "phasers"
+	},
+	{
+		"name": "Death Merged",
+		"unitType": "Armored",
+		"uniqueTo": "Dlotho South Pole",
+		"movement": 1,
+		"strength": 150,
+		"cost": 425,
+		"requiredTech": "Agriculture",
+		"promotions": ["Blitz","Charge"],
+		"requiredResource": "Iron",
 		"attackSound": "phasers"
 	}
 ]
