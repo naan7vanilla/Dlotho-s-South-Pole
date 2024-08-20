@@ -27,8 +27,8 @@
 		"afterPeace": "We will return.",
 		"tradeRequest": "At least we dont want your blood this time.",
 
-		"outerColor": [140,25,255],
-		"innerColor": [255,200,200],
+		"outerColor": [140,135,190],
+		"innerColor": [422,64,104],
 		"uniques": ["Cannot build [Settler] units","Starts with [Honor] adopted","[30] units cost no maintenance","Cannot build [Ranged] units","[6] Unit Supply per [1] population [in all cities]","Quantity of strategic resources produced by the empire +[+100]%","Cities are razed [20] times as fast","No movement cost to pillage","Can only heal by pillaging"],
 		"cities": ["South Pole"]
 	}
